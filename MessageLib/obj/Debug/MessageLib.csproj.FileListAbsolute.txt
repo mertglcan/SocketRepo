@@ -1,0 +1,5 @@
+X:\Projeler\SocketApp\MessageLib\bin\Debug\MessageLib.dll
+X:\Projeler\SocketApp\MessageLib\bin\Debug\MessageLib.pdb
+X:\Projeler\SocketApp\MessageLib\obj\Debug\MessageLib.csproj.CoreCompileInputs.cache
+X:\Projeler\SocketApp\MessageLib\obj\Debug\MessageLib.dll
+X:\Projeler\SocketApp\MessageLib\obj\Debug\MessageLib.pdb

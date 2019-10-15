@@ -1,0 +1,13 @@
+X:\Projeler\SocketApp\ClientApp\bin\Debug\ClientApp.exe.config
+X:\Projeler\SocketApp\ClientApp\bin\Debug\ClientApp.exe
+X:\Projeler\SocketApp\ClientApp\bin\Debug\ClientApp.pdb
+X:\Projeler\SocketApp\ClientApp\bin\Debug\MessageLib.dll
+X:\Projeler\SocketApp\ClientApp\bin\Debug\MessageLib.pdb
+X:\Projeler\SocketApp\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+X:\Projeler\SocketApp\ClientApp\obj\Debug\ClientApp.Form1.resources
+X:\Projeler\SocketApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+X:\Projeler\SocketApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+X:\Projeler\SocketApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+X:\Projeler\SocketApp\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+X:\Projeler\SocketApp\ClientApp\obj\Debug\ClientApp.exe
+X:\Projeler\SocketApp\ClientApp\obj\Debug\ClientApp.pdb
